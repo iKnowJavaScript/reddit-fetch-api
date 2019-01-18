@@ -1,0 +1,3 @@
+clone this repo on your machine....
+
+Go live using LiveServer on VScode
